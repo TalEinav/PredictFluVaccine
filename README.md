@@ -1,2 +1,2 @@
 # PredictFluVaccine
-Using the pre-vaccination antibody response to predict the post-vaccination response.
+Repository for the manuscript *Leveraging Pre-Vaccination Antibody Titers across Multiple Influenza H3N2 Variants to Forecast the Post-Vaccination Response*. We present an algorithm that uses an individual's pre-vaccination antibody titers against different influenza variants to predict their post-vaccination response.
