@@ -10,4 +10,4 @@ In this work, we present an algorithm that uses an individual's pre-vaccination 
   * **2023 Crotty - Afluria and FluMist.csv** is a separate standalone file for the two 2023 Crotty vaccine studies introduced in this work. They contain additional metadata describing each person's self reported vaccination history from the past there seasons as well as the time of day they were given their influenza vaccine.
 * *Code*: A Mathematica notebook that contains the full analysis and reproduces all plots from this work.
   * All methods and results in the notebook are extensively annotated, and all code should run within less than a minute.
-  * Analysis was performed using Mathematica version 14.0 for Windows, but should run on any platform and with any later version. There is no need for any installation beyond the standard Mathematica programming language.
+  * Analysis was performed using Mathematica version 14.2 for Windows, but should run on any platform and with any later version. There is no need for any installation beyond the standard Mathematica programming language.
